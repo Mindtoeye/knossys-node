@@ -23,4 +23,4 @@ export dbUsername="knossys"
 export dbTable="portal"
 export dbPassword="4570WK821X6OiyT508srN09wV"
 
-java -cp "./target/KNode-jar-with-dependencies.jar" com.knossys.rnd.net.KNode
+java -cp "./target/KNode-jar-with-dependencies.jar" com.knossys.rnd.net.KNode -r "node"

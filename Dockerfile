@@ -13,4 +13,4 @@ RUN mvn package
 RUN echo "Assembling ..."
 RUN mvn compile assembly:single
 
-CMD java -cp "./target/KNode-jar-with-dependencies.jar" com.knossys.rnd.net.KNode
+CMD java -cp "./target/KNode-jar-with-dependencies.jar" com.knossys.rnd.net.KNode -r "node"

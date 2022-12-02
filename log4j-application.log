@@ -1,2 +1,4 @@
 2022-12-02 10:07:51 INFO  KNode:24 - init()
 2022-12-02 10:07:51 INFO  KNode:16 - usage()
+2022-12-02 11:05:50 INFO  KNode:34 - init()
+2022-12-02 11:05:50 INFO  KNode:63 - Error: Connection refused (Connection refused)
